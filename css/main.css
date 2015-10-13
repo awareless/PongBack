@@ -401,6 +401,9 @@ header #logo-container #logo {
   font-size: 18px;
   text-align:center;
 }
+#Visitors{
+  float: right;
+}
 header #logo-container #subtitle {
   color: #2f556b;
   font-weight: bold;
