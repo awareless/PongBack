@@ -559,7 +559,7 @@ header nav ul li a.bordered {
   line-height: 1.6em;
 }
 #content section.row .col, #content section.row .col-full {
-  float: left;
+  float: right;
   display: block;
   margin-right: 2.35765%;
   width: 48.82117%;
