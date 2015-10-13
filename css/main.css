@@ -559,7 +559,7 @@ header nav ul li a.bordered {
   line-height: 1.6em;
 }
 #content section.row .col, #content section.row .col-full {
-  float: right;
+  float: left;
   display: block;
   margin-right: 2.35765%;
   width: 48.82117%;
@@ -572,7 +572,7 @@ header nav ul li a.bordered {
 }
 @media screen and (max-width: 540px) {
   #content section.row .col, #content section.row .col-full {
-    float: right;
+    float: left;
     display: block;
     margin-right: 7.42297%;
     width: 100%;
@@ -582,7 +582,7 @@ header nav ul li a.bordered {
   }
 }
 #content section.row .col-full {
-  float: right;
+  float: left;
   display: block;
   margin-right: 2.35765%;
   width: 100%;
@@ -592,7 +592,7 @@ header nav ul li a.bordered {
 }
 @media screen and (max-width: 540px) {
   #content section.row .col-full {
-    float: right;
+    float: left;
     display: block;
     margin-right: 7.42297%;
     width: 100%;
