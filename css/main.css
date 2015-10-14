@@ -18,6 +18,11 @@ time, mark, audio, video {
   background: transparent;
 }
 
+
+
+
+
+
 html, body {
   font-size: 100%;
 }
@@ -639,8 +644,27 @@ header nav ul li a.bordered {
 }
 #content .photo-grid a.col-3 {
   width: 32%;
-  width: calc(33.33333% - 16px);
+  width: calc(33.33333%);
 }
+#content .photo-grid a.col-4 {
+  width: 25%;
+  width: calc(25%);
+}
+#content .photo-grid a.col-5 {
+  width: 20%;
+  width: calc(20%);
+}
+#content .photo-grid a.col-5 img {
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#content .photo-grid a.col-60 {
+  width: 60%;
+  width: calc(60%);
+}
+
+
 @media screen and (max-width: 540px) {
   #content .photo-grid a {
     margin-bottom: 10px;
